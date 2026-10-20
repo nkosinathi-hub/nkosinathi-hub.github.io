@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.nkosinathihub.commonground",
+      "sha256_cert_fingerprints": [
+        "C1:12:C7:A5:88:7C:9E:EC:2D:A7:36:F5:E4:BC:A8:A7:92:F9:41:D1:0F:3C:C6:55:BF:66:0D:9B:4D:1C:C6:FB"
+      ]
+    }
+  }
+]
